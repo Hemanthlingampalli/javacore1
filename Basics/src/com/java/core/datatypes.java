@@ -6,6 +6,7 @@ public class datatypes {
 		String s= "500";
 		int n = Integer.parseInt(s);
 		System.out.println(n);
+	
 		
 	}
 

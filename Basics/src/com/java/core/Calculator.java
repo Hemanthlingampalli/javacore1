@@ -26,9 +26,6 @@ package com.java.core;
 			}
 			System.out.print("\nThe result is given as follows:\n");
 			System.out.printf(num1+""+op+""+num2+"="+ans);
-	
-		
-
 	}
 
 }
